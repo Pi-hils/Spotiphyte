@@ -6,7 +6,7 @@ Welcome to spotiPhyte! If you would like to give the game a go, please click her
 
 
 Team SpotiPhyte: <br>
-[Ralph Mallet](https://github.com/ralphm10)<br>
+[Ralph Mallett](https://github.com/ralphm10)<br>
 [Hilda Amponsah](https://github.com/Pi-hils)<br>
 [Jake Cummings](https://github.com/SilverLongjohns)<br>
 [Alexis Simonian](https://github.com/Alexisimonian)<br>

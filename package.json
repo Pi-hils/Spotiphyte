@@ -1,0 +1,22 @@
+{
+  "name": "spotiphyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pi-hils/Spotiphyte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pi-hils/Spotiphyte/issues"
+  },
+  "homepage": "https://github.com/Pi-hils/Spotiphyte#readme",
+  "devDependencies": {
+    "karma-jasmine": "^4.0.1"
+  }
+}

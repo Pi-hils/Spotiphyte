@@ -4,9 +4,9 @@ import './App.css';
 class App extends Component {
   constructor(){
     super();
-    const params = this.getHarshParams();
+    // const params = this.getHarshParams();
     this.state ={
-      loggedIn: params.access_token ? true : false,
+      // loggedIn: params.access_token ? true : false,
       nowPlaying: {
         name: 'Not Checked',
         image: ''

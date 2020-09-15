@@ -1,4 +1,4 @@
 language: node_js
-  - node
+  - "12.18.3"
 
 cache: npm

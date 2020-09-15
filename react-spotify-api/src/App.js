@@ -22,6 +22,7 @@ class App extends Component {
     }
     return hashParams;
   }
+
   render(){
     return (
       <div className="App">
@@ -37,6 +38,7 @@ class App extends Component {
    </div>
   );
  }
-}
+};
+
 
 export default App;

@@ -6,17 +6,17 @@ Team SpotiPhyte: <u>Team charter discussed and agreed by the following members <
 [Alexis Simonian](https://github.com/Alexisimonian)<br>
 [Paul Humphreys](https://github.com/phump81)
 ### Values
-Open Communication
-Respect everyone
-Do not shout at anyone
-Promote learning and fun above completion
-Punctuality
-Transparency
-Be Proud of what you are building
-Communicate your schedules and feelings (if you need time off, inform team)
-Emotional check-in
-Check yourself against the charter - accountable to yourself
-Be diligent in what you do - do the best you can
+- Open Communication
+- Respect everyone
+- Do not shout at anyone
+- Promote learning and fun above completion
+- Punctuality
+- Transparency
+- Be Proud of what you are building
+- Communicate your schedules and feelings (if you need time off, inform team)
+- Emotional check-in
+- Check yourself against the charter - accountable to yourself
+- Be diligent in what you do - do the best you can
 
 
 ## Agreed Schedule(Flexible):
